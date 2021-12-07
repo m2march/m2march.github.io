@@ -7,7 +7,7 @@ respones in a listener.
 
 _Contact:_ 
 
-* Email: mmiguel@dc.uba.ar
+* Email: [mmiguel@dc.uba.ar](mailto:mmiguel@dc.uba.ar)
 * Twitter: [@M2march](https://twitter.com/M2March)
 
 ## Work
@@ -34,6 +34,8 @@ for Music Information Retrieval Conference (ISMIR). Online, 2021. [PDF](https://
 ## Further Links
 
 ### [Google Scholar Profile](https://scholar.google.com/citations?user=nKVQ_gkAAAAJ&hl=en)
+
+### [Curriculum Vitae](https://github.com/m2march/cvs/raw/master/research/cv.pdf)
 
 ### [Scientific related open code](https://github.com/m2march/science-public) 
 
