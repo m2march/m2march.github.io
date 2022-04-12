@@ -3,7 +3,7 @@ I'm a Computer Scientist currently researching rhythm cognition. I focus on
 developing models of [beat expectation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242207), 
 with focus on producing observations of relevance for experimental research.
 I am mostly interested in how the timing of events can produce affective
-respones in a listener.
+responses in a listener.
 
 _Contact:_ 
 
