@@ -1,9 +1,6 @@
 ## About Me
-I'm a PhD from the Computer Science Dept. from the University of Buenos Aires and currently a Post-doctoral fellow at the Psychology, Neuroscience and Behaviour Dept. at McMaster University. My research focus is on rhythm cognition. I have previously focused on
-developing models of [beat expectation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242207), 
-with focus on producing observations of relevance for experimental research.
-I am mostly interested in how the timing of events can produce affective
-responses in a listener.
+I'm a PhD from the Computer Science Dept. from the University of Buenos Aires and currently a Post-doctoral fellow at the Psychology, Neuroscience and Behaviour Dept. at McMaster University. My research focus is on rhythm cognition. I have previously focused on developing models of [beat expectation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242207), with focus on producing observations of relevance for experimental research.
+I am mostly interested in how the timing of events can produce affective responses in a listener.
 
 _Contact:_ 
 
