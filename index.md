@@ -1,5 +1,5 @@
 ## About Me
-I'm a Computer Scientist currently researching rhythm cognition. I focus on
+I'm a PhD from the Computer Science Dept. from the University of Buenos Aires and currently a Post-doctoral fellow at the Psychology, Neuroscience and Behaviour Dept. at McMaster University. My research focus is on rhythm cognition. I have previously focused on
 developing models of [beat expectation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242207), 
 with focus on producing observations of relevance for experimental research.
 I am mostly interested in how the timing of events can produce affective
@@ -7,12 +7,15 @@ responses in a listener.
 
 _Contact:_ 
 
-* Email: [mmiguel@dc.uba.ar](mailto:mmiguel@dc.uba.ar)
+* Email: 
+  *  mmiguel at dc uba ar
+  *  miguem3 at mcmaster ca
 * Twitter: [@M2march](https://twitter.com/M2March)
 
 ## Work
 
 ### Publications
+* Kiss, L., Guiot, C., Hashim, S., D’Aleman Arango, N., & Miguel, M. A. The 14th International Conference of Students of Systematic Musicology (SysMus21). Music & Science (2021).
 * Pironio N., Slezak D.F. & Miguel M.A. Pulse clarity metrics developed from a deep learning beat tracking model. Proceedings of the International Society
 for Music Information Retrieval Conference (ISMIR). Online, 2021. [PDF](https://archives.ismir.net/ismir2021/paper/000065.pdf)
 * Miguel, M.A. & Slezak D.F. Modeling beat uncertainty as a 2D distribution of period and phase: a MIR task proposal. Proceedings of the International Society
