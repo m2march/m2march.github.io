@@ -1,18 +1,18 @@
 ## About Me
-I'm a PhD from the Computer Science Dept. from the University of Buenos Aires and currently a Post-doctoral fellow at the Psychology, Neuroscience and Behaviour Dept. at McMaster University. My research focus is on rhythm cognition. I have previously focused on developing models of [beat expectation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242207), with focus on producing observations of relevance for experimental research.
-I am mostly interested in how the timing of events can produce affective responses in a listener.
+I'm a Computer Scientist currently researching rhythm cognition. I focus on
+developing models of [beat expectation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242207), 
+with focus on producing observations of relevance for experimental research.
+I am mostly interested in how the timing of events can produce affective
+respones in a listener.
 
 _Contact:_ 
 
-* Email: 
-  *  mmiguel at dc uba ar
-  *  miguem3 at mcmaster ca
+* Email: mmiguel@dc.uba.ar
 * Twitter: [@M2march](https://twitter.com/M2March)
 
 ## Work
 
 ### Publications
-* Kiss, L., Guiot, C., Hashim, S., D’Aleman Arango, N., & Miguel, M. A. The 14th International Conference of Students of Systematic Musicology (SysMus21). Music & Science (2021).
 * Pironio N., Slezak D.F. & Miguel M.A. Pulse clarity metrics developed from a deep learning beat tracking model. Proceedings of the International Society
 for Music Information Retrieval Conference (ISMIR). Online, 2021. [PDF](https://archives.ismir.net/ismir2021/paper/000065.pdf)
 * Miguel, M.A. & Slezak D.F. Modeling beat uncertainty as a 2D distribution of period and phase: a MIR task proposal. Proceedings of the International Society
@@ -22,20 +22,30 @@ for Music Information Retrieval Conference (ISMIR). Online, 2021. [PDF](https://
 
 ### Posters
 
-* Miguel, M.A. & Slezak D.F. Modeling beat ambiguity in period and phase. SysMus 21. [10.17605/OSF.IO/5WRS3](https://osf.io/5wrs3/)
-* Pironio N., Slezak D.F. & Miguel M.A. Evaluation of pulse clarity models on multiple datasets. Rhythm Perception and Production Workshop 2021 (RPPW). [10.17605/OSF.IO/SDQ5P](https://osf.io/sdq5p/)
-* Miguel, M. A. (SMPC 2019). Tapping to your own beat: experimental setup for exploring subjective tacti distribution and pulse clarity. [https://doi.org/10.17605/OSF.IO/7SQAW](https://doi.org/10.17605/OSF.IO/7SQAW)
-* Miguel, M. A. (SMPC 2019). A continuous model of pulse clarity: towards inspecting affect through expectations in time. [https://doi.org/10.17605/OSF.IO/FGVB2](https://doi.org/10.17605/OSF.IO/FGVB2)
+* Cossavella, F. & Miguel, M.A. & Slezak, D.F. The Role Of The Motor System In The Processing Of Rhythmic Complexity: A Critical Review [link](https://www.neuromusic.ca/posters-2023/the-role-of-the-motor-system-in-the-processing-of-rhythmic-complexity-a-critical-review/)
+* Miguel, M.A, Trainor, L., Cannon J. Co-representation vs. attenuation: whether motor representation of a distractor makes it more or less distracting.
+Neuromusic 19, Hamilton, Canada, 2023 [(DOI 10.17605/OSF.IO/NC7FE)](https://osf.io/nc7fe/)
+* Kirk et al. The highs and lows of music: subjective and neurophysiological responses during a live concert experience. International Conference of Students of Systematic   Musicology 23, Online and Sheffield, United Kingdom, 2023.
+* Miguel, M.A, Cannon J., Trainor, L. Modeling the subjective beat in period, phase and uncertainty. Neuromusic 18, Hamilton, Canada, 2022 [(DOI 10.17605/OSF.IO/2J6HM)](https://osf.io/2j6hm/)
+* Miguel, M.A. & Slezak D.F. Modeling beat ambiguity in period and phase. SysMus 21. [(10.17605/OSF.IO/5WRS3)](https://osf.io/5wrs3/)
+* Pironio N., Slezak D.F. & Miguel M.A. Evaluation of pulse clarity models on multiple datasets. Rhythm Perception and Production Workshop 2021 (RPPW). [(10.17605/OSF.IO/SDQ5P)](https://osf.io/sdq5p/)
+* Miguel, M. A. (SMPC 2019). Tapping to your own beat: experimental setup for exploring subjective tacti distribution and pulse clarity. [(10.17605/OSF.IO/7SQAW)](https://doi.org/10.17605/OSF.IO/7SQAW)
+* Miguel, M. A. (SMPC 2019). A continuous model of pulse clarity: towards inspecting affect through expectations in time. [(10.17605/OSF.IO/FGVB2)](https://doi.org/10.17605/OSF.IO/FGVB2)
 
 ### In progress
 
-* Inference of rhythmic structure and repetition through probabilistic grammars.
+#### Experimental Psychology
+
+* Experiment evaluating how internal representations of stimuli changes how we process it: whether motor representation of a distractor in a synchronization task makes it more or less distracting.
+* Experiment evaluating how two partner dance learning strategies (dancing with a repeating partner or dancing with multiple partners) compares to learn haptic communication.
+
+#### Computational modelling
+
+* Modelling the proces of inferencing of rhythmic structure and repetition through probabilistic grammars.
 
 ## Further Links
 
 ### [Google Scholar Profile](https://scholar.google.com/citations?user=nKVQ_gkAAAAJ&hl=en)
-
-### [Curriculum Vitae](https://github.com/m2march/cvs/raw/master/research/cv.pdf)
 
 ### [Scientific related open code](https://github.com/m2march/science-public) 
 
