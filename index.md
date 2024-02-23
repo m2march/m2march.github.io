@@ -1,13 +1,13 @@
 ## About Me
-I'm a Computer Scientist currently researching rhythm cognition. I focus on
-developing models of [beat expectation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242207), 
-with focus on producing observations of relevance for experimental research.
-I am mostly interested in how the timing of events can produce affective
-respones in a listener.
+
+* PhD on computational models of rhythmic condition from the Computer Science Dept. at University of Buenos Aires, Argentina.
+* Currently post-doc at [METRE Lab](https://trimba.mcmaster.ca/) and [LIVELab](https://livelab.mcmaster.ca/) at McMaster University, Canada. 
 
 _Contact:_ 
 
-* Email: mmiguel@dc.uba.ar
+* Email:
+  * mmiguel at dc uba ar
+  * miguem3 at mcmaster ca
 * Twitter: [@M2march](https://twitter.com/M2March)
 
 ## Work
@@ -41,7 +41,7 @@ Neuromusic 19, Hamilton, Canada, 2023 [(DOI 10.17605/OSF.IO/NC7FE)](https://osf.
 
 #### Computational modelling
 
-* Modelling the proces of inferencing of rhythmic structure and repetition through probabilistic grammars.
+* Modelling the inference process of rhythmic structure and repetition through probabilistic grammars.
 
 ## Further Links
 
