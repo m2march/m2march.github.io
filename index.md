@@ -9,6 +9,7 @@ _Contact:_
   * mmiguel at dc uba ar
   * miguem3 at mcmaster ca
 * Twitter: [@M2march](https://twitter.com/M2March)
+* [CV](https://github.com/m2march/cvs/blob/1dbc6e0a59b2bad1bc9df9115e448c151be2bad1/research/mmiguel-cv.pdf)
 
 ## Work
 
