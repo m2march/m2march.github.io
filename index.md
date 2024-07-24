@@ -13,19 +13,22 @@ _Contact:_
 
 ## Work
 
-### Publications
+### Main Publications
+* Cossavella, F., Miguel, M.A., Fernandez Slezak, D. The Role Of The Motor System In The Processing Of Rhythmic Complexity: A
+  Critical Review. CogSci 2024, Rotterdam, Netherlands, July 2024. [(link)](https://escholarship.org/uc/item/5vx1w3qg)
 * Pironio N., Slezak D.F. & Miguel M.A. Pulse clarity metrics developed from a deep learning beat tracking model. Proceedings of the International Society
-for Music Information Retrieval Conference (ISMIR). Online, 2021. [PDF](https://archives.ismir.net/ismir2021/paper/000065.pdf)
+for Music Information Retrieval Conference (ISMIR). Online, 2021. [(PDF)](https://archives.ismir.net/ismir2021/paper/000065.pdf)
 * Miguel, M.A. & Slezak D.F. Modeling beat uncertainty as a 2D distribution of period and phase: a MIR task proposal. Proceedings of the International Society
-for Music Information Retrieval Conference (ISMIR). Online, 2021. [PDF](https://archives.ismir.net/ismir2021/paper/000056.pdf)
+for Music Information Retrieval Conference (ISMIR). Online, 2021. [(PDF)](https://archives.ismir.net/ismir2021/paper/000056.pdf)
 * Miguel, M.A., Riera, P. & Slezak, D.F. A simple and cheap setup for timing tapping responses synchronized to auditory stimuli. Behav Res (2021). [https://doi.org/10.3758/s13428-021-01653-y](https://doi.org/10.3758/s13428-021-01653-y)
 * Miguel M.A., Sigman M, Fernandez Slezak D (2020) From beat tracking to beat expectation: Cognitive-based beat tracking for capturing pulse clarity through time. PLOS ONE 15(11): e0242207. [https://doi.org/10.1371/journal.pone.0242207](https://doi.org/10.1371/journal.pone.0242207)
 
-### Posters
-
-* Cossavella, F. & Miguel, M.A. & Slezak, D.F. The Role Of The Motor System In The Processing Of Rhythmic Complexity: A Critical Review [link](https://www.neuromusic.ca/posters-2023/the-role-of-the-motor-system-in-the-processing-of-rhythmic-complexity-a-critical-review/)
-* Miguel, M.A, Trainor, L., Cannon J. Co-representation vs. attenuation: whether motor representation of a distractor makes it more or less distracting.
-Neuromusic 19, Hamilton, Canada, 2023 [(DOI 10.17605/OSF.IO/NC7FE)](https://osf.io/nc7fe/)
+### Main Posters
+* Miguel, M.A., Cannon, J., Trainor, L. Exploitation vs. exploration in partner dancing: whether switching partners enhances communication in partner dancing.
+The Neurosciences and Music – VIII, Helsinki, Finland, June 2024 [(link)](https://osf.io/a4rgu/)
+* Miguel, M.A., Trainor, L., Cannon, J. Co-representation vs. attenuation: whether motor representation of a
+  distractor makes it more distracting. Brains and Bodies in Social Interaction, Learning and Wellbeing, Jyväskylä, Finland, June 2024 [(link)](https://osf.io/nc7fe/)
+* Cossavella, F. & Miguel, M.A. & Slezak, D.F. The Role Of The Motor System In The Processing Of Rhythmic Complexity: A Critical Review [(link)](https://www.neuromusic.ca/posters-2023/the-role-of-the-motor-system-in-the-processing-of-rhythmic-complexity-a-critical-review/)
 * Kirk et al. The highs and lows of music: subjective and neurophysiological responses during a live concert experience. International Conference of Students of Systematic   Musicology 23, Online and Sheffield, United Kingdom, 2023.
 * Miguel, M.A, Cannon J., Trainor, L. Modeling the subjective beat in period, phase and uncertainty. Neuromusic 18, Hamilton, Canada, 2022 [(DOI 10.17605/OSF.IO/2J6HM)](https://osf.io/2j6hm/)
 * Miguel, M.A. & Slezak D.F. Modeling beat ambiguity in period and phase. SysMus 21. [(10.17605/OSF.IO/5WRS3)](https://osf.io/5wrs3/)
