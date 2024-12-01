@@ -24,6 +24,7 @@ for Music Information Retrieval Conference (ISMIR). Online, 2021. [(PDF)](https:
 * Miguel M.A., Sigman M, Fernandez Slezak D (2020) From beat tracking to beat expectation: Cognitive-based beat tracking for capturing pulse clarity through time. PLOS ONE 15(11): e0242207. [https://doi.org/10.1371/journal.pone.0242207](https://doi.org/10.1371/journal.pone.0242207)
 
 ### Main Posters
+* Kirk, R., Anderson, C., Miguel, M.A., Wood, E., Tawfik, H., Bosnyak, D., Trainor, L. Highly expressive moments correspond to less audience synchronisation during a live concert. Neuromusic 2024, Hamilton, Canada, November 2024 [(link)](https://www.neuromusic.ca/posters-2024/p1-26-highly-expressive-moments-correspond-to-less-audience-synchronisation-during-a-live-concert/)
 * Miguel, M.A., Cannon, J., Trainor, L. Exploitation vs. exploration in partner dancing: whether switching partners enhances communication in partner dancing.
 The Neurosciences and Music – VIII, Helsinki, Finland, June 2024 [(link)](https://osf.io/a4rgu/)
 * Miguel, M.A., Trainor, L., Cannon, J. Co-representation vs. attenuation: whether motor representation of a
